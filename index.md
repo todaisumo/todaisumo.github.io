@@ -16,7 +16,7 @@
 
 
 
-*   [About Us](intr0.html)
+*   [About Us](about.md)
 *   [Twitter](//twitter.com/todaisumo)
 *   [Facebook](https://ja-jp.facebook.com/todaisumo/)
 *   [Contact](contact.html)
