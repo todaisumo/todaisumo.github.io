@@ -23,7 +23,7 @@
 *   [新歓Twitter](https://twitter.com/todaisumo_aki)
 *   [YouTube](https://www.youtube.com/channel/UCukuciY6AxptJRP4onZ3B6w)
 *   [質問箱](https://peing.net/ja/todaisumo_aki)
-*   [Access](mapi0.html)
+*   [Access](source/mapi0.html)
 
 
 
@@ -58,10 +58,10 @@
 <br>
 
 
-部員不足のため、絶賛新歓中！２年生以上でも大歓迎！
+部員不足のため、絶賛新歓中！2年生以上でも大歓迎！
 
 
-まずは一度練習を見に来てみて下さい！５限のある方は途中参加で大丈夫です。  
+まずは一度練習を見に来てみて下さい！5限のある方は途中参加で大丈夫です。  
 
 <br><br>
 

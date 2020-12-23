@@ -1,0 +1,47 @@
+body       {background-image:url(../image/bg01.png);
+            background-attachment:fixed;
+            font-size:12pt;
+            color:#000066;
+            margin:0 0 1em 0}
+h1         {font-size:27pt;
+			text-align:center;
+			color:#ffffff;
+            background-color:#cccccc;
+            background-image:url(../image/bg03.png);
+            border-width:0 0 0 0;
+            padding:0.2em 0 0.1em 0.2em;
+            margin:0 0 0.5em 0;}
+h2         {font-size:22pt;
+            background-color:#cccccc;
+            background-image:url(../image/bg02.png);
+            border-width:0 0 0 0;
+            padding:0.2em 0 0.1em 0.2em;
+            margin:0.5em 0.5em 0.5em 0.5em;}
+h3         {font-size:18pt;
+			border-style:ridge;
+			border-color:#660000;
+			border-width:0 0 1px 0.3em;
+            margin:0.2em 1.5em 0.2em 1em;}
+h4         {font-size:14pt;
+			margin:0.5em 0 0 1.5em}
+
+p          {margin:0.5em 2.5em 0.5em 2em}
+
+ul         {margin-left:3em;
+            margin-top:0.5em;
+            margin-bottom:0.5em}
+
+a     	   {color:#003300;
+			text-decoration:underline;
+			font-weight:bold}
+a:hover    {background-color:#ccffff}
+
+img        {border:0 #fff none}
+
+table.history{border:ridge 2px #999999}
+td.history1  {border:solid 1px #000000}
+
+div.navi   {text-align:right;
+            font-size:0.9em;
+            padding-top:0.2em;
+            margin-top:1em}
